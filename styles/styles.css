@@ -473,15 +473,13 @@
         box-shadow:
             0 0 10px #ff0080,
             0 0 25px #ff8c00,
-            0 0 40px #40e0d0,
-            0 0 60px #8a2be2;
+          
     }
     to {
         box-shadow:
             0 0 25px #ff0080,
             0 0 50px #ff8c00,
-            0 0 80px #40e0d0,
-            0 0 120px #8a2be2;
+          
     }
 }
 
@@ -602,7 +600,7 @@
         }
 .developer {
    
-   font-size: 0.8em;
+   font-size: 1em;
     text-decoration: none;
     
 
@@ -613,5 +611,5 @@
 .developer .a { color: orange; }
 .developer .l { color: limegreen; }
 .developer .u { color: royalblue; }
-.developer .k { color: purple; }
+.developer .k { color: rgb(216, 145, 216); }
 .developer .u2 { color: red; }

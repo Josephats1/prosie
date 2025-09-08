@@ -3,7 +3,7 @@
             newArrivals: [
                 {
                     id: 1,
-                    brand: "PROSIE",
+                    brand: " Prossy Boutique",
                     name: "Neo-Luxe Trench Coat",
                     price: 8.9,
                     originalPrice: 11,
@@ -15,7 +15,7 @@
                 },
                 {
                     id: 2,
-                    brand: "PROSIE",
+                    brand: " Prossy Boutique",
                     name: "Holographic Evening Gown",
                     price: 12.9,
                     originalPrice: 15,
@@ -27,7 +27,7 @@
                 },
                 {
                     id: 3,
-                    brand: "PROSIE",
+                    brand: " Prossy Boutique",
                     name: "Cashmere Blazer",
                     price: 17,
                     originalPrice: 19,
@@ -39,7 +39,7 @@
                 },
                 {
                     id: 4,
-                    brand: "PROSIE",
+                    brand: " Prossy Boutique",
                     name: "Silk Camisole Dress",
                     price: 13.6,
                     originalPrice: 14,
@@ -51,7 +51,7 @@
                 },
                 {
                     id: 5,
-                    brand: "PROSIE",
+                    brand: " Prossy Boutique",
                     name: "Wool Wide-Leg Trousers",
                     price: 12.2,
                     originalPrice: 13.4,
@@ -63,7 +63,7 @@
                 },
                 {
                     id: 6,
-                    brand: "PROSIE",
+                    brand: " Prossy Boutique",
                     name: "Leather Moto Jacket",
                     price: 12.3,
                     originalPrice: 13,
@@ -74,7 +74,7 @@
                 },
                 {
                     id: 7,
-                    brand: "PROSIE",
+                    brand: " Prossy Boutique",
                     name: "Velvet Blazer",
                     price: 459,
                     originalPrice: 599,
@@ -85,7 +85,7 @@
                 },
                 {
                     id: 8,
-                    brand: "PROSIE",
+                    brand: " Prossy Boutique",
                     name: "Satin Slip Dress",
                     price: 12.7,
                     originalPrice: 13.9,
@@ -96,7 +96,7 @@
                 },
                 {
                     id: 9,
-                    brand: "PROSIE",
+                    brand: " Prossy Boutique",
                     name: "Cashmere Sweater",
                     price: 12.1,
                     originalPrice: 13.1,
@@ -107,7 +107,7 @@
                 },
                 {
                     id: 10,
-                    brand: "PROSIE",
+                    brand: " Prossy Boutique",
                     name: "Wool Blend Coat",
                     price: 5.3,
                     originalPrice: 7,
@@ -118,7 +118,7 @@
                 },
                 {
                     id: 11,
-                    brand: "PROSIE",
+                    brand: " Prossy Boutique",
                     name: "Cashmere Sweater",
                     price: 10,
                     originalPrice: 13,
@@ -129,7 +129,7 @@
                 },
                 {
                     id: 12,
-                    brand: "PROSIE",
+                    brand: " Prossy Boutique",
                     name: "Wool Blend Coat",
                     price: 8,
                     originalPrice: 11,
